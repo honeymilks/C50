@@ -1,0 +1,29 @@
+h3{
+    color: brown;
+}
+h2{
+    color: rgb(22, 15, 1);
+}
+h4{
+    color: rgb(194, 224, 19);
+}
+.about{
+    background-color: rgb(220, 130, 243);
+    display:flex;
+    justify-content: space-around;
+}
+.picgrid{
+    background-color: darksalmon;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.item{
+    border-style:dotted;
+    border-color: lightseagreen;
+}
+
+.picgrid img{
+    border:2px solid hotpink;
+    border-radius : 40px; 
+}
